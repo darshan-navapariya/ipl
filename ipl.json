@@ -1,0 +1,51 @@
+{
+        "_ads comment": "0:OffAds & 1:OnAds",
+        "ads": [
+            {
+                "enable": "1",
+                "version_code": "3",
+                "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_w": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_m": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_q": "ca-app-pub-3734894100159653/7379043365",
+                "banner_id_s": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_z": "ca-app-pub-3940256099942544/6300978111",
+                "interstial_id_a": "ca-app-pub-3940256099942544/1033173712",
+                "interstial_id_w": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_m": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_q": "ca-app-pub-3734894100159653/6065961692",
+                "interstial_id_s": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_z": "ca-app-pub-3940256099942544/8691691433",
+                "native_id_a": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_w": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_m": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_q": "ca-app-pub-3734894100159653/1140938075",
+                "native_id_s": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_z": "ca-app-pub-3940256099942544/2247696110",
+                "appopen_id_a": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_w": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_m": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_q": "ca-app-pub-3734894100159653/4758874603",
+                "appopen_id_s": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_z": "ca-app-pub-3940256099942544/3419835294"
+            }
+        ],
+        "_update comment": "0:None & 1:Normal & 2:Force",
+        "update": [
+            {
+                "version_code": "40",
+                "update_type": "0",
+                "update_title": "App Update",
+                "update_text": "Enjoy the latest update with Elegant layout and many more. Update app now..."
+            }
+        ],
+        "_transfer comment": "0:None & 1:Transfer",
+        "transfer": [
+            {
+                "enable": "0",
+                "transfer_title": "App Transfer",
+                "transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
+                "link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
+            }
+        ]
+}
